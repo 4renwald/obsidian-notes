@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "to-read.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "to-read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "to-read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "to-read.md"
               }
             }
           }
@@ -146,40 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa705b98e04eab55",
+  "active": "b442925ece7cab4b",
   "lastOpenFiles": [
+    "docs/Computers/Infrastructure Set Architectures.md",
+    "docs/Computers/Registers, Addresses, and Data Types.md",
+    "docs/Computers/CPU Architecture.md",
+    "docs/Computers/Computer Architecture.md",
+    "docs/Computers",
+    "docs/Programming/Assembly/assets/registers.webp",
+    "docs/Programming/Assembly/assets/GDB-step_instructions.png",
+    "docs/Programming/Assembly/assets/GDB-step_count.png",
+    "docs/Programming/Assembly/assets/GDB-step.png",
+    "docs/Programming/Assembly/assets/GDB-registers.png",
+    "docs/Programming/Assembly/assets/GDB-breakpoint.png",
+    "docs/Programming/Assembly/Shellcoding.md",
+    "docs/Programming/Assembly/Shellcoding tools.md",
+    "docs/Programming/Assembly/Ressources.md",
+    "docs/Programming/Assembly/Registers.md",
+    "docs/Programming/Assembly/GDB.md",
+    "docs/Programming/Assembly/Functions.md",
+    "docs/Programming/Assembly/Assembly instructions.md",
+    "docs/Programming/Assembly/assets",
+    "docs/Programming/Assembly/Assembly and Dissassembly.md",
+    "docs/Programming/Assembly",
+    "docs/Programming",
+    "docs/Pentesting/1. Penetration Testing Process/assets/PenTestProcess.png",
+    "docs/Pentesting/2. Getting Started/Notes.md",
+    "docs/Pentesting/2. Getting Started/Getting Started Cheatsheet.md",
+    "docs/Pentesting/1. Penetration Testing Process/Notes.md",
+    "docs/Pentesting/1. Penetration Testing Process/assets",
+    "docs/Pentesting/Links.md",
+    "docs/Pentesting/2. Getting Started",
+    "docs/Pentesting/1. Penetration Testing Process",
+    "docs/Pentesting",
+    "docs",
+    "mkdocs.yml",
+    "Programming/Assembly/Shellcoding.md",
+    "Programming/Assembly/Ressources.md",
+    "Programming/Assembly/Registers.md",
+    "Programming/Assembly/GDB.md",
+    "Programming/Assembly/Assembly instructions.md",
     "Programming/Assembly/Assembly and Dissassembly.md",
-    "Links.md",
+    "to-read.md",
     "README.md",
     "Programming/Assembly/assets/registers.webp",
     "Programming/Assembly/assets/GDB-step_instructions.png",
     "Programming/Assembly/assets/GDB-step_count.png",
-    "Programming/Assembly/assets/GDB-step.png",
-    "Programming/Assembly/assets/GDB-registers.png",
-    "Programming/Assembly/assets/GDB-breakpoint.png",
-    "Programming/Assembly/assets",
-    "Programming/Assembly/Shellcoding.md",
     "Programming/Assembly/Shellcoding tools.md",
-    "Programming/Assembly/Ressources.md",
-    "Programming/Assembly/Registers.md",
-    "Programming/Assembly/GDB.md",
-    "Programming/Assembly/Functions.md",
-    "Programming/Assembly/Assembly instructions.md",
-    "Programming/Assembly",
-    "Programming",
-    "HTB CPTS/2. Getting Started/Notes.md",
-    "HTB CPTS/2. Getting Started/Getting Started Cheatsheet.md",
-    "HTB CPTS/2. Getting Started",
-    "HTB CPTS/1. Penetration Testing Process/assets/PenTestProcess.png",
-    "HTB CPTS/1. Penetration Testing Process/assets",
-    "HTB CPTS/1. Penetration Testing Process/Notes.md",
-    "HTB CPTS/1. Penetration Testing Process",
-    "HTB CPTS/Links.md",
-    "HTB CPTS",
-    "Computers/Registers, Addresses, and Data Types.md",
-    "Computers/Infrastructure Set Architectures.md",
-    "Computers/CPU Architecture.md",
-    "Computers/Computer Architecture.md",
-    "Computers"
+    "Programming/Assembly/Functions.md"
   ]
 }
