@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "7a1bea0bfc0fc5e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ba345a34e731562",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa705b98e04eab55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f88d4373f72e3c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "37a23323180f22cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b442925ece7cab4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d191f339597e12df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3a31cc7ac38e20d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ceb0524e9195281",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8293a45fee9af0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "385430104d5779f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5eb9fa8f826473b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e5ccba3f57b46ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6584128091697c26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aa705b98e04eab55",
+  "lastOpenFiles": [
+    "Programming/Assembly/Assembly and Dissassembly.md",
+    "Links.md",
+    "README.md",
+    "Programming/Assembly/assets/registers.webp",
+    "Programming/Assembly/assets/GDB-step_instructions.png",
+    "Programming/Assembly/assets/GDB-step_count.png",
+    "Programming/Assembly/assets/GDB-step.png",
+    "Programming/Assembly/assets/GDB-registers.png",
+    "Programming/Assembly/assets/GDB-breakpoint.png",
+    "Programming/Assembly/assets",
+    "Programming/Assembly/Shellcoding.md",
+    "Programming/Assembly/Shellcoding tools.md",
+    "Programming/Assembly/Ressources.md",
+    "Programming/Assembly/Registers.md",
+    "Programming/Assembly/GDB.md",
+    "Programming/Assembly/Functions.md",
+    "Programming/Assembly/Assembly instructions.md",
+    "Programming/Assembly",
+    "Programming",
+    "HTB CPTS/2. Getting Started/Notes.md",
+    "HTB CPTS/2. Getting Started/Getting Started Cheatsheet.md",
+    "HTB CPTS/2. Getting Started",
+    "HTB CPTS/1. Penetration Testing Process/assets/PenTestProcess.png",
+    "HTB CPTS/1. Penetration Testing Process/assets",
+    "HTB CPTS/1. Penetration Testing Process/Notes.md",
+    "HTB CPTS/1. Penetration Testing Process",
+    "HTB CPTS/Links.md",
+    "HTB CPTS",
+    "Computers/Registers, Addresses, and Data Types.md",
+    "Computers/Infrastructure Set Architectures.md",
+    "Computers/CPU Architecture.md",
+    "Computers/Computer Architecture.md",
+    "Computers"
+  ]
+}
