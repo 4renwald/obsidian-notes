@@ -156,6 +156,7 @@
   },
   "active": "f83e81b55118d5d1",
   "lastOpenFiles": [
+    "CNAME",
     "docs/Computers/CPU Architecture.md",
     "docs/Computers/Computer Architecture.md",
     "README.md",
@@ -164,7 +165,6 @@
     "docs/Pentesting/Pre-Exploitation/Tools/Searchsploit.md",
     "docs/Pentesting/Pre-Exploitation/Tools/MSFConsole/Databases.md",
     "docs/Pentesting/Pentesting.md",
-    "CNAME",
     "docs/Pentesting/Getting Started Cheatsheet.md",
     "docs/Pentesting/Links.md",
     "docs/Pentesting/Exploitation/Exploitation.md",
@@ -182,7 +182,6 @@
     "docs/Pentesting/Information Gathering/Active Directory Enumeration/ACL Enumeration.md",
     "docs/Pentesting/Penetration Testing Process/Penetration Testing Process.md",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Trust Relationship Abuse/Attacking Cross-Forest Trust.md",
-    "docs/Pentesting/Exploitation/Active Directory Attacks/Trust Relationship Abuse/Attacking Child to Parent Trust.md",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Trust Relationship Abuse",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations",
     "docs/Pentesting/Exploitation/Active Directory Attacks/ACL Abuse",
