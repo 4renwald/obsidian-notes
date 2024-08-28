@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b195f5d8868178fb",
+        "id": "6c2ab5996e619128",
         "type": "tabs",
         "children": [
           {
-            "id": "a7ec799d03c6cf50",
+            "id": "364b1df3b5f2fd8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Pentesting/Getting Started Cheatsheet.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "beautitab-react-view",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Pentesting/Getting Started Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Pentesting/Getting Started Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Pentesting/Getting Started Cheatsheet.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b442925ece7cab4b",
+  "active": "364b1df3b5f2fd8e",
   "lastOpenFiles": [
+    "docs/Pentesting/Getting Started Cheatsheet.md",
     "docs/Pentesting/Links.md",
     "docs/Pentesting/Exploitation/Exploitation.md",
     "docs/Pentesting/Pre-Exploitation/Pre-Exploitation.md",
@@ -182,7 +175,6 @@
     "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations/Password in Description Field.md",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations/SYSVOL Pillaging.md",
     "docs/Pentesting/Exploitation/Active Directory Attacks/PetitPotam.md",
-    "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations/Misconfigurations.md",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations",
     "docs/Pentesting/Exploitation/Active Directory Attacks/ACL Abuse",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Kerberoasting",
