@@ -2,5 +2,7 @@
   "obsidian-git",
   "beautitab",
   "obsidian-icon-folder",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "obsidian-linter",
+  "make-md"
 ]

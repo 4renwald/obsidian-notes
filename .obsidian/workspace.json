@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ba345a34e731562",
+        "id": "b195f5d8868178fb",
         "type": "tabs",
         "children": [
           {
-            "id": "aa705b98e04eab55",
+            "id": "a7ec799d03c6cf50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Pentesting/Getting Started Cheatsheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,12 +64,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "9624279c70bc35d0",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 402.5
   },
   "right": {
     "id": "7ceb0524e9195281",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Pentesting/Getting Started Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Pentesting/Getting Started Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/Pentesting/Getting Started Cheatsheet.md"
               }
             }
           }
@@ -146,52 +155,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa705b98e04eab55",
+  "active": "a7ec799d03c6cf50",
   "lastOpenFiles": [
-    "docs/to-read.md",
-    "docs/blog/posts",
-    "docs/blog/index.md",
-    "docs/blog",
-    "docs/index.md",
-    "docs/programming/Assembly/assets/GDB-step_instructions.png",
-    "docs/programming/Assembly/assets/registers.webp",
-    "docs/programming/Assembly/assets/GDB-step_count.png",
-    "docs/programming/Assembly/assets/GDB-step.png",
-    "docs/programming/Assembly/assets/GDB-registers.png",
-    "docs/programming/Assembly/assets/GDB-breakpoint.png",
-    "docs/programming/Assembly/Shellcoding tools.md",
-    "docs/programming/Assembly/Shellcoding.md",
-    "docs/programming/Assembly/Ressources.md",
-    "docs/programming/Assembly/Registers.md",
-    "docs/programming/Assembly/GDB.md",
-    "docs/programming/Assembly/Assembly instructions.md",
-    "docs/programming/Assembly/Functions.md",
-    "docs/programming/Assembly/assets",
-    "docs/programming/Assembly/Assembly and Dissassembly.md",
-    "docs/programming/Assembly",
-    "docs/programming",
-    "docs/pentesting/1. Penetration Testing Process/assets/PenTestProcess.png",
-    "docs/pentesting/2. Getting Started/Notes.md",
-    "docs/pentesting/2. Getting Started/Getting Started Cheatsheet.md",
-    "docs/pentesting/1. Penetration Testing Process/Notes.md",
-    "docs/pentesting/1. Penetration Testing Process/assets",
-    "docs/pentesting/2. Getting Started",
-    "docs/pentesting/Links.md",
-    "docs/pentesting/1. Penetration Testing Process",
-    "docs/pentesting",
-    "docs/computers/Infrastructure Set Architectures.md",
-    "docs/computers/Registers, Addresses, and Data Types.md",
-    "docs/computers/CPU Architecture.md",
-    "docs/computers/Computer Architecture.md",
-    "docs/computers",
-    "to-read.md",
-    "docs/Computers/Infrastructure Set Architectures.md",
-    "docs/Computers/Registers, Addresses, and Data Types.md",
-    "docs/Computers/CPU Architecture.md",
+    "docs/Pentesting/Links.md",
+    "docs/Pentesting/Exploitation/Exploitation.md",
+    "docs/Pentesting/Pre-Exploitation/Pre-Exploitation.md",
+    "docs/Pentesting/Information Gathering/Information Gathering.md",
+    "docs/Pentesting/Penetration Testing Process/Project Closeout/Project Closeout.md",
+    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Assessment Specific Stages.md",
+    "docs/Pentesting/Penetration Testing Process/Project Closeout/Post-Engagement.md",
+    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Latteral Movement.md",
+    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Post-Exploitation.md",
+    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Exploitation.md",
+    "docs/Pentesting/Information Gathering/Active Directory Enumeration/Tools/BloodHound/BloodHound.md",
+    "docs/Pentesting/Penetration Testing Process/assets/assets.md",
+    "docs/Pentesting/Pentesting.md",
+    "docs/Pentesting/Information Gathering/Active Directory Enumeration/Tools/BloodHound/Analysis.md",
+    "docs/Pentesting/Information Gathering/Active Directory Enumeration/ACL Enumeration.md",
     "docs/Computers/Computer Architecture.md",
-    "docs/Programming/Assembly/assets/registers.webp",
-    "docs/Programming/Assembly/assets/GDB-step_instructions.png",
-    "docs/Programming/Assembly/assets/GDB-step_count.png",
-    "docs/Programming/Assembly/Shellcoding.md"
+    "docs/Pentesting/Penetration Testing Process/Penetration Testing Process.md",
+    "docs/Pentesting/Exploitation/Active Directory Attacks/Trust Relationship Abuse/Attacking Cross-Forest Trust.md",
+    "docs/Pentesting/Exploitation/Active Directory Attacks/Trust Relationship Abuse/Attacking Child to Parent Trust.md",
+    "docs/Pentesting/Exploitation/Active Directory Attacks/Trust Relationship Abuse/Trust Relationship Abuse.md",
+    "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations/Groupe Policy Object Abuse.md",
+    "docs/Pentesting/Exploitation/Active Directory Attacks/Trust Relationship Abuse",
+    "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations/PASSWD_NOTREQD Field.md",
+    "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations/Password in Description Field.md",
+    "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations/SYSVOL Pillaging.md",
+    "docs/Pentesting/Exploitation/Active Directory Attacks/PetitPotam.md",
+    "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations/Misconfigurations.md",
+    "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations",
+    "docs/Pentesting/Exploitation/Active Directory Attacks/ACL Abuse",
+    "docs/Pentesting/Exploitation/Active Directory Attacks/Kerberoasting",
+    "docs/Pentesting/Exploitation/Active Directory Attacks",
+    "docs/Pentesting/Exploitation/Binary Exploitation",
+    "docs/Pentesting/Exploitation/Application Exploitation/Tomcat",
+    "docs/Pentesting/Exploitation/Application Exploitation/Drupal",
+    "docs/Pentesting/Exploitation/Application Exploitation",
+    "docs/Pentesting/Exploitation/Web Exploitation/Tools",
+    "docs/Pentesting/Penetration Testing Process/assets/0-PT-Process.png",
+    "docs/Pentesting/Penetration Testing Process/assets/0-PT-Process-POC.png",
+    "docs/Pentesting/Penetration Testing Process/assets/0-PT-Process-LA.png",
+    "docs/Pentesting/Penetration Testing Process/assets/0-PT-Process-POEX.png",
+    "docs/Pentesting/Penetration Testing Process/assets/0-PT-Process-EX.png",
+    "docs/Pentesting/Penetration Testing Process/assets/0-PT-Process-VA.png",
+    "docs/Pentesting/Penetration Testing Process/assets/0-PT-Process-IG.png",
+    "docs/Pentesting/Penetration Testing Process/assets/0-PT-Process-PRE.png",
+    "docs/Pentesting/Penetration Testing Process/assets/PenTestProcess.png",
+    "docs/Programming/Assembly/assets/GDB-step_instructions.png"
   ]
 }
