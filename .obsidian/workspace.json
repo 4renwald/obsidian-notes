@@ -11,8 +11,12 @@
             "id": "f83e81b55118d5d1",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -148,6 +156,8 @@
   },
   "active": "f83e81b55118d5d1",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs/to-read.md",
     "docs/Computers/Computer Architecture.md",
     "docs/Pentesting/Pre-Exploitation/Tools/Searchsploit.md",
     "docs/Pentesting/Pre-Exploitation/Tools/MSFConsole/Databases.md",
@@ -174,8 +184,6 @@
     "docs/Pentesting/Exploitation/Active Directory Attacks/Trust Relationship Abuse/Trust Relationship Abuse.md",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations/Groupe Policy Object Abuse.md",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Trust Relationship Abuse",
-    "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations/PASSWD_NOTREQD Field.md",
-    "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations/Password in Description Field.md",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations",
     "docs/Pentesting/Exploitation/Active Directory Attacks/ACL Abuse",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Kerberoasting",

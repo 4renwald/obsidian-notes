@@ -17,5 +17,6 @@
 👤 **Arenwald**
 
 * Website: https://notes.arenwald.com
+* Blog: https://blog.arenwald.com
 * Twitter: [@arenwald](https://twitter.com/4renwald)
 * Github: [@4renwald](https://github.com/4renwald)
