@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/Computers/Registers, Addresses, and Data Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/Computers/Registers, Addresses, and Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/Computers/Registers, Addresses, and Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/Computers/Registers, Addresses, and Data Types.md"
               }
             }
           }
@@ -156,9 +156,11 @@
   },
   "active": "f83e81b55118d5d1",
   "lastOpenFiles": [
+    "docs/Computers/CPU Architecture.md",
+    "docs/Computers/Computer Architecture.md",
+    "README.md",
     "docs/index.md",
     "docs/to-read.md",
-    "docs/Computers/Computer Architecture.md",
     "docs/Pentesting/Pre-Exploitation/Tools/Searchsploit.md",
     "docs/Pentesting/Pre-Exploitation/Tools/MSFConsole/Databases.md",
     "docs/Pentesting/Pentesting.md",
@@ -181,8 +183,6 @@
     "docs/Pentesting/Penetration Testing Process/Penetration Testing Process.md",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Trust Relationship Abuse/Attacking Cross-Forest Trust.md",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Trust Relationship Abuse/Attacking Child to Parent Trust.md",
-    "docs/Pentesting/Exploitation/Active Directory Attacks/Trust Relationship Abuse/Trust Relationship Abuse.md",
-    "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations/Groupe Policy Object Abuse.md",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Trust Relationship Abuse",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations",
     "docs/Pentesting/Exploitation/Active Directory Attacks/ACL Abuse",
