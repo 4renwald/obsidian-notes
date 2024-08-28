@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Latteral Movement.md",
+                "file": "docs/Pentesting/Penetration Testing Process/Project Closeout/Proof-of-Concept.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Latteral Movement.md",
+                "file": "docs/Pentesting/Penetration Testing Process/Project Closeout/Proof-of-Concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Latteral Movement.md",
+                "file": "docs/Pentesting/Penetration Testing Process/Project Closeout/Proof-of-Concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Latteral Movement.md"
+                "file": "docs/Pentesting/Penetration Testing Process/Project Closeout/Proof-of-Concept.md"
               }
             }
           }
@@ -156,11 +156,14 @@
   },
   "active": "f83e81b55118d5d1",
   "lastOpenFiles": [
+    "docs/Pentesting/Penetration Testing Process/Project Closeout/Post-Engagement.md",
+    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Vulnerability Assessment.md",
+    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Summary.md",
+    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Pre-Engagement.md",
+    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Post-Exploitation.md",
+    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Latteral Movement.md",
     "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Information Gathering.md",
     "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Exploitation.md",
-    "docs/Pentesting/Penetration Testing Process/Project Closeout/Post-Engagement.md",
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Post-Exploitation.md",
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Pre-Engagement.md",
     "docs/Computers/Registers, Addresses, and Data Types.md",
     "docs/CNAME",
     "CNAME",
@@ -179,11 +182,8 @@
     "docs/Pentesting/Information Gathering/Information Gathering.md",
     "docs/Pentesting/Penetration Testing Process/Project Closeout/Project Closeout.md",
     "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Assessment Specific Stages.md",
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Latteral Movement.md",
     "docs/Pentesting/Information Gathering/Active Directory Enumeration/Tools/BloodHound/BloodHound.md",
     "docs/Pentesting/Penetration Testing Process/assets/assets.md",
-    "docs/Pentesting/Information Gathering/Active Directory Enumeration/Tools/BloodHound/Analysis.md",
-    "docs/Pentesting/Information Gathering/Active Directory Enumeration/ACL Enumeration.md",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Trust Relationship Abuse",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations",
     "docs/Pentesting/Exploitation/Active Directory Attacks/ACL Abuse",
