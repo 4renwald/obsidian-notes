@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6c2ab5996e619128",
+        "id": "67aa16c9109eed6e",
         "type": "tabs",
         "children": [
           {
-            "id": "364b1df3b5f2fd8e",
+            "id": "f83e81b55118d5d1",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
@@ -146,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "364b1df3b5f2fd8e",
+  "active": "f83e81b55118d5d1",
   "lastOpenFiles": [
+    "docs/Computers/Computer Architecture.md",
+    "docs/Pentesting/Pre-Exploitation/Tools/Searchsploit.md",
+    "docs/Pentesting/Pre-Exploitation/Tools/MSFConsole/Databases.md",
+    "docs/Pentesting/Pentesting.md",
+    "CNAME",
     "docs/Pentesting/Getting Started Cheatsheet.md",
     "docs/Pentesting/Links.md",
     "docs/Pentesting/Exploitation/Exploitation.md",
@@ -161,10 +166,8 @@
     "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Exploitation.md",
     "docs/Pentesting/Information Gathering/Active Directory Enumeration/Tools/BloodHound/BloodHound.md",
     "docs/Pentesting/Penetration Testing Process/assets/assets.md",
-    "docs/Pentesting/Pentesting.md",
     "docs/Pentesting/Information Gathering/Active Directory Enumeration/Tools/BloodHound/Analysis.md",
     "docs/Pentesting/Information Gathering/Active Directory Enumeration/ACL Enumeration.md",
-    "docs/Computers/Computer Architecture.md",
     "docs/Pentesting/Penetration Testing Process/Penetration Testing Process.md",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Trust Relationship Abuse/Attacking Cross-Forest Trust.md",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Trust Relationship Abuse/Attacking Child to Parent Trust.md",
@@ -173,8 +176,6 @@
     "docs/Pentesting/Exploitation/Active Directory Attacks/Trust Relationship Abuse",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations/PASSWD_NOTREQD Field.md",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations/Password in Description Field.md",
-    "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations/SYSVOL Pillaging.md",
-    "docs/Pentesting/Exploitation/Active Directory Attacks/PetitPotam.md",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations",
     "docs/Pentesting/Exploitation/Active Directory Attacks/ACL Abuse",
     "docs/Pentesting/Exploitation/Active Directory Attacks/Kerberoasting",
@@ -183,7 +184,6 @@
     "docs/Pentesting/Exploitation/Application Exploitation/Tomcat",
     "docs/Pentesting/Exploitation/Application Exploitation/Drupal",
     "docs/Pentesting/Exploitation/Application Exploitation",
-    "docs/Pentesting/Exploitation/Web Exploitation/Tools",
     "docs/Pentesting/Penetration Testing Process/assets/0-PT-Process.png",
     "docs/Pentesting/Penetration Testing Process/assets/0-PT-Process-POC.png",
     "docs/Pentesting/Penetration Testing Process/assets/0-PT-Process-LA.png",
