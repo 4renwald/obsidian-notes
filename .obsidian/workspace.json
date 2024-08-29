@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/Summary.md"
               }
             }
           }
@@ -156,8 +156,15 @@
   },
   "active": "7b0f1c20145d5503",
   "lastOpenFiles": [
-    "docs/to-read.md",
+    "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/5. Latteral Movement.md",
+    "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/4. Post-Exploitation.md",
+    "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/3. Exploitation.md",
+    "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/2. Vulnerability Assessment.md",
+    "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/1. Information Gathering.md",
+    "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/0. Pre-Engagement.md",
+    "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/Summary.md",
     "docs/index.md",
+    "docs/to-read.md",
     "docs/Programming/Assembly/Assembly and Dissassembly.md",
     "docs/Computers/Computer Architecture.md",
     "docs/Pentesting/Useful Links.md",
@@ -175,13 +182,6 @@
     "docs/Pentesting/1. Information Gathering/Service Enumeration/Tools/Nmap/Saving Output.md",
     "docs/Pentesting/1. Information Gathering/Service Enumeration/Tools/Nmap/Timing and Performance.md",
     "docs/Pentesting/1. Information Gathering/Service Enumeration/Tools/Nmap/OS Detection.md",
-    "docs/Pentesting/1. Information Gathering/Service Enumeration/Tools/Nmap/Service and Version Detection.md",
-    "docs/Pentesting/1. Information Gathering/Service Enumeration/Tools/Nmap/Port Scanning.md",
-    "docs/Pentesting/1. Information Gathering/Service Enumeration/Tools/Nmap/Host Discovery.md",
-    "docs/Pentesting/1. Information Gathering/Service Enumeration/Tools/Nmap/Scripts.md",
-    "docs/Pentesting/1. Information Gathering/Service Enumeration/Tools/Nmap/Firewall, IDS and IPS Evasion.md",
-    "docs/Pentesting/Tools/Vim.md",
-    "docs/Pentesting/Tools/Tmux.md",
     "docs/Pentesting/Tools/Tmux",
     "docs/Pentesting/Tools",
     "docs/Pentesting/Tools/NetExec",
