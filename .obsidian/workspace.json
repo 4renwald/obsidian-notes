@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "67aa16c9109eed6e",
+        "id": "5079787a540280ed",
         "type": "tabs",
         "children": [
           {
-            "id": "f83e81b55118d5d1",
+            "id": "7b0f1c20145d5503",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Pentesting/Penetration Testing Process/Project Closeout/Proof-of-Concept.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Pentesting/Penetration Testing Process/Project Closeout/Proof-of-Concept.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Pentesting/Penetration Testing Process/Project Closeout/Proof-of-Concept.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Pentesting/Penetration Testing Process/Project Closeout/Proof-of-Concept.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -154,52 +154,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f83e81b55118d5d1",
+  "active": "7b0f1c20145d5503",
   "lastOpenFiles": [
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Post-Exploitation.md",
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Pre-Engagement.md",
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Summary.md",
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Vulnerability Assessment.md",
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-all.png",
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-all.png.crdownload",
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Latteral Movement.md",
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Information Gathering.md",
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Exploitation.md",
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/assets/PenTestProcess.png",
-    "docs/Pentesting/Penetration Testing Process/Project Closeout/Proof-of-Concept.md",
-    "docs/Pentesting/Penetration Testing Process/Project Closeout/Post-Engagement.md",
-    "docs/Computers/Registers, Addresses, and Data Types.md",
-    "docs/CNAME",
-    "CNAME",
-    "docs/Computers/CPU Architecture.md",
-    "docs/Computers/Computer Architecture.md",
-    "README.md",
-    "docs/index.md",
     "docs/to-read.md",
-    "docs/Pentesting/Pre-Exploitation/Tools/Searchsploit.md",
-    "docs/Pentesting/Pre-Exploitation/Tools/MSFConsole/Databases.md",
-    "docs/Pentesting/Pentesting.md",
+    "docs/index.md",
+    "docs/Programming/Assembly/Assembly and Dissassembly.md",
+    "docs/Computers/Computer Architecture.md",
+    "docs/Pentesting/Useful Links.md",
+    "docs/Pentesting/4. Post-Exploitation/Linux Post Exploitation/File Transfer/HTB File Transfer Cheatsheet.md",
     "docs/Pentesting/Getting Started Cheatsheet.md",
-    "docs/Pentesting/Links.md",
-    "docs/Pentesting/Exploitation/Exploitation.md",
-    "docs/Pentesting/Pre-Exploitation/Pre-Exploitation.md",
-    "docs/Pentesting/Information Gathering/Information Gathering.md",
-    "docs/Pentesting/Penetration Testing Process/Project Closeout/Project Closeout.md",
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/Assessment Specific Stages.md",
-    "docs/Pentesting/Exploitation/Active Directory Attacks/Trust Relationship Abuse",
-    "docs/Pentesting/Exploitation/Active Directory Attacks/Misconfigurations",
-    "docs/Pentesting/Exploitation/Active Directory Attacks/ACL Abuse",
-    "docs/Pentesting/Exploitation/Active Directory Attacks/Kerberoasting",
-    "docs/Pentesting/Exploitation/Active Directory Attacks",
-    "docs/Pentesting/Exploitation/Binary Exploitation",
-    "docs/Pentesting/Exploitation/Application Exploitation/Tomcat",
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process.png",
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-POC.png",
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-LA.png",
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-POEX.png",
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-EX.png",
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-VA.png",
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-IG.png",
-    "docs/Pentesting/Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-PRE.png"
+    "docs/Pentesting/4. Post-Exploitation/Linux Post Exploitation/Privilege Escalation/HTB PrivEsc Cheatsheet.md",
+    "docs/Pentesting/2. Pre-Exploitation/Shells/HTB Shells Cheatsheet.md",
+    "docs/Pentesting/2. Pre-Exploitation/Shells/Bind Shells.md",
+    "docs/Pentesting/2. Pre-Exploitation/Public Exploits.md",
+    "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Directory & Page Fuzzing.md",
+    "docs/Pentesting/1. Information Gathering/Application Enumeration/HTB Web Enumeration Cheatsheet.md",
+    "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/HTB Service Enumeration Cheatsheet.md",
+    "docs/Pentesting/1. Information Gathering/Service Enumeration/Tools/netcat.md",
+    "docs/Pentesting/1. Information Gathering/Service Enumeration/Tools/Nmap/Options.md",
+    "docs/Pentesting/1. Information Gathering/Service Enumeration/Tools/Nmap/Saving Output.md",
+    "docs/Pentesting/1. Information Gathering/Service Enumeration/Tools/Nmap/Timing and Performance.md",
+    "docs/Pentesting/1. Information Gathering/Service Enumeration/Tools/Nmap/OS Detection.md",
+    "docs/Pentesting/1. Information Gathering/Service Enumeration/Tools/Nmap/Service and Version Detection.md",
+    "docs/Pentesting/1. Information Gathering/Service Enumeration/Tools/Nmap/Port Scanning.md",
+    "docs/Pentesting/1. Information Gathering/Service Enumeration/Tools/Nmap/Host Discovery.md",
+    "docs/Pentesting/1. Information Gathering/Service Enumeration/Tools/Nmap/Scripts.md",
+    "docs/Pentesting/1. Information Gathering/Service Enumeration/Tools/Nmap/Firewall, IDS and IPS Evasion.md",
+    "docs/Pentesting/Tools/Vim.md",
+    "docs/Pentesting/Tools/Tmux.md",
+    "docs/Pentesting/Tools/Tmux",
+    "docs/Pentesting/Tools",
+    "docs/Pentesting/Tools/NetExec",
+    "docs/Pentesting/5. Latteral Movement/Tools",
+    "docs/Pentesting/5. Latteral Movement/Pivoting",
+    "docs/Pentesting/5. Latteral Movement/Active Directory Lateral Movement",
+    "docs/Pentesting/5. Latteral Movement/Windows Lateral Movement/Kerberos Pass the Ticket",
+    "docs/Pentesting/5. Latteral Movement/Windows Lateral Movement",
+    "docs/Pentesting/5. Latteral Movement/Linux Lateral Movement/Kerberos Pass the Ticket",
+    "docs/Pentesting/5. Latteral Movement/Linux Lateral Movement",
+    "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-all.png",
+    "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/PenTestProcess.png",
+    "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process.png",
+    "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-POC.png",
+    "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-LA.png",
+    "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-POEX.png",
+    "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-EX.png",
+    "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-VA.png",
+    "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-IG.png",
+    "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-PRE.png"
   ]
 }
