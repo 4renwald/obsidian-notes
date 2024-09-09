@@ -6,9 +6,40 @@
       {
         "id": "5079787a540280ed",
         "type": "tabs",
+        "dimension": 49.96274217585693,
         "children": [
           {
             "id": "7b0f1c20145d5503",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Nmap Cheat Sheet.pdf"
+              }
+            }
+          },
+          {
+            "id": "5c19535674810a4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Options.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e72ec0e7049bcc82",
+        "type": "tabs",
+        "dimension": 50.03725782414307,
+        "children": [
+          {
+            "id": "cc83a7145c3fa534",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -91,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Options.md"
               }
             }
           }
@@ -150,14 +183,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b442925ece7cab4b",
+  "active": "5c19535674810a4a",
   "lastOpenFiles": [
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Nmap Cheat Sheet.pdf",
-    "conflict-files-obsidian-git.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Options.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/States.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/OS Detection.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Port Scanning.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Saving Output.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Scripts.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Service and Version Detection.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/States.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Timing and Performance.md",
+    "conflict-files-obsidian-git.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/OS Detection.md",
     "docs/Pentesting/1. Information Gathering/Application Enumeration/HTB Web Enumeration Cheatsheet.md",
     "docs/Pentesting/1. Information Gathering/Application Enumeration/GitLab.md",
     "docs/Pentesting/1. Information Gathering/Application Enumeration/Drupal.md",
@@ -177,10 +214,6 @@
     "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/2. Vulnerability Assessment.md",
     "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/1. Information Gathering.md",
     "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/0. Pre-Engagement.md",
-    "docs/index.md",
-    "docs/to-read.md",
-    "docs/Programming/Assembly/Assembly and Dissassembly.md",
-    "docs/Pentesting/Useful Links.md",
     "docs/Pentesting/Tools/Tmux",
     "docs/Pentesting/Tools",
     "docs/Pentesting/Tools/NetExec",
