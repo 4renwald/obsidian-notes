@@ -91,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Nmap Cheat Sheet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Nmap Cheat Sheet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Nmap Cheat Sheet.pdf"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -152,13 +150,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b0f1c20145d5503",
+  "active": "b442925ece7cab4b",
   "lastOpenFiles": [
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Nmap Cheat Sheet.pdf",
+    "conflict-files-obsidian-git.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Options.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/States.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/OS Detection.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Port Scanning.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Nmap Cheat Sheet.pdf",
     "docs/Pentesting/1. Information Gathering/Application Enumeration/HTB Web Enumeration Cheatsheet.md",
     "docs/Pentesting/1. Information Gathering/Application Enumeration/GitLab.md",
     "docs/Pentesting/1. Information Gathering/Application Enumeration/Drupal.md",
@@ -182,8 +181,6 @@
     "docs/to-read.md",
     "docs/Programming/Assembly/Assembly and Dissassembly.md",
     "docs/Pentesting/Useful Links.md",
-    "docs/Pentesting/4. Post-Exploitation/Linux Post Exploitation/File Transfer/HTB File Transfer Cheatsheet.md",
-    "docs/Pentesting/Getting Started Cheatsheet.md",
     "docs/Pentesting/Tools/Tmux",
     "docs/Pentesting/Tools",
     "docs/Pentesting/Tools/NetExec",
