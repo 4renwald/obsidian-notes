@@ -11,9 +11,11 @@
             "id": "7b0f1c20145d5503",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Nmap Cheat Sheet.pdf"
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Firewall, IDS and IPS Evasion.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Firewall, IDS and IPS Evasion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Firewall, IDS and IPS Evasion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Firewall, IDS and IPS Evasion.md"
               }
             }
           }
@@ -150,9 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b442925ece7cab4b",
+  "active": "7b0f1c20145d5503",
   "lastOpenFiles": [
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Nmap Cheat Sheet.pdf",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Firewall, IDS and IPS Evasion.md",
     "conflict-files-obsidian-git.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Options.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/States.md",
@@ -162,7 +167,6 @@
     "docs/Pentesting/1. Information Gathering/Application Enumeration/GitLab.md",
     "docs/Pentesting/1. Information Gathering/Application Enumeration/Drupal.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Host Discovery.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Firewall, IDS and IPS Evasion.md",
     "docs/Pentesting/1. Information Gathering/Service Enumeration/Tools/Nmap/HTB Cheat Sheet.md",
     "docs/Pentesting/0. Penetration Testing Process/Project Closeout/Post-Engagement.md",
     "docs/Pentesting/0. Penetration Testing Process/Project Closeout/Proof-of-Concept.md",
