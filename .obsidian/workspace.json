@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6ea0a7e254105c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Firewall, IDS and IPS Evasion.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Firewall, IDS and IPS Evasion.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Firewall, IDS and IPS Evasion.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -154,11 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b0f1c20145d5503",
+  "active": "e6ea0a7e254105c3",
   "lastOpenFiles": [
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Nmap Cheat Sheet.pdf",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Firewall, IDS and IPS Evasion.md",
     "conflict-files-obsidian-git.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Nmap Cheat Sheet.pdf",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Options.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/States.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/OS Detection.md",
