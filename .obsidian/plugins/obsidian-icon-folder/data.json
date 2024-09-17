@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiServer2",
+      "TiCloud",
+      "LiFootprints",
       "TiFile",
-      "LiNetwork",
-      "FarFilePdf",
-      "LiImage",
-      "TiWorldWww"
+      "LiNetwork"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -434,5 +434,10 @@
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Timing and Performance.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Nmap Cheat Sheet.pdf": "FarFilePdf",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/States.md": "TiFile",
-  "docs/Pentesting/1. Information Gathering/Web Enumeration/Tools/EyeWitness.md": "TiFile"
+  "docs/Pentesting/1. Information Gathering/Web Enumeration/Tools/EyeWitness.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration": "TiServer2",
+  "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration/Enumeration Methodology.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration/Domain Information.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration/Cloud Resources.md": "TiCloud",
+  "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration/Staff.md": "TiFile"
 }
