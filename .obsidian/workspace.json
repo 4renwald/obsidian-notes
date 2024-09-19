@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/Cheat Sheet.md"
               }
             }
           }
@@ -156,21 +156,23 @@
   },
   "active": "38b6878d30346ab2",
   "lastOpenFiles": [
-    "Pasted image 20240916205127.png",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/Footprinting the service.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/Cheat Sheet.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/Active vs Passive.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/vsFTPd.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/Dangerous settings.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Nmap Cheat Sheet.pdf",
     "README.md",
+    "Pasted image 20240916205127.png",
     "conflict-files-obsidian-git.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Firewall, IDS and IPS Evasion.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/TFTP (69)/Service information.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/TFTP (69)",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/vsFTPd.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/Footprinting the service.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/Active vs Passive.md",
     "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration/Staff.md",
     "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration/Enumeration Methodology.md",
     "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration/Domain Information.md",
     "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration/Cloud Resources.md",
     "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Nmap Cheat Sheet.pdf",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Scripts.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/OS Detection.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Host Discovery.md",
@@ -184,7 +186,6 @@
     "docs/Pentesting/1. Information Gathering/Web Enumeration/Tools/EyeWitness.md",
     "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/HTB Service Enumeration Cheatsheet.md",
     "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Parameter & Value Fuzzing.md",
-    "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Web Server Enumeration.md",
     "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/Pasted image 20240828231009.png",
     "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/Pasted image 20240828230953.png",
     "docs/Pentesting/0. Penetration Testing Process/Project Closeout/assets",
