@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiServer",
       "TiFile",
       "LiNetwork",
       "FarFilePdf",
-      "LiImage",
-      "TiWorldWww"
+      "LiImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -438,5 +438,11 @@
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/Active vs Passive.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/Footprinting the service.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/vsFTPd.md": "TiFile",
-  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/Cheat Sheet.md": "TiFile"
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/Cheat Sheet.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration": "LiServer",
+  "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration/Cloud Resources.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration/Domain Information.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration/Enumeration Methodology.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration/Staff.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration/Cheat Sheet.md": "TiFile"
 }
