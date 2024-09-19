@@ -445,5 +445,6 @@
   "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration/Enumeration Methodology.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration/Staff.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration/Cheat Sheet.md": "TiFile",
-  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/SMB vs CIFS.md": "TiFile"
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/SMB vs CIFS.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Cheat Sheet.md": "TiFile"
 }
