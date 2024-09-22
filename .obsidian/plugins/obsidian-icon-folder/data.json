@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFolder",
       "TiTools",
       "LiServer",
       "TiFile",
-      "LiNetwork",
-      "FarFilePdf"
+      "LiNetwork"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -451,5 +451,12 @@
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/SMBMap.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Samrdump.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Crackmapexec.md": "TiFile",
-  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Enum4Linux.md": "TiFile"
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Enum4Linux.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/TFTP (69)": "LiFolder",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/NFS (111,2049)": "LiFolder",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/NFS (111,2049)/Default Configuration.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/NFS (111,2049)/Dangerous Settings.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/NFS (111,2049)/Footprinting the Service.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/DNS (53)/Server Type.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/DNS (53)/Default Configuration.md": "TiFile"
 }
