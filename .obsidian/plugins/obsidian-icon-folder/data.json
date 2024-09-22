@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiTools",
       "LiServer",
       "TiFile",
       "LiNetwork",
-      "FarFilePdf",
-      "LiImage"
+      "FarFilePdf"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -417,7 +417,6 @@
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/MySQL (3306)/Dangerous Settings.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/R-Services (512,513,514)/Service Breakdown.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Dangerous Settings.md": "TiFile",
-  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/RPCclient.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Spidering.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Windows Specific.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMTP (25,465,587)/Common Commands.md": "TiFile",
@@ -446,5 +445,11 @@
   "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration/Staff.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration/Cheat Sheet.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/SMB vs CIFS.md": "TiFile",
-  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Cheat Sheet.md": "TiFile"
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Cheat Sheet.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools": "TiTools",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/RPCclient.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/SMBMap.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Samrdump.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Crackmapexec.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Enum4Linux.md": "TiFile"
 }
