@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Enum4Linux.md",
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/RPCclient.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Enum4Linux.md",
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/RPCclient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Enum4Linux.md",
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/RPCclient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Enum4Linux.md"
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/RPCclient.md"
               }
             }
           }
@@ -156,15 +156,16 @@
   },
   "active": "38b6878d30346ab2",
   "lastOpenFiles": [
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Crackmapexec.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Enum4Linux.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Dangerous Settings.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/SMB vs CIFS.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/SMBMap.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Cheat Sheet.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Samrdump.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/RPCclient.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/SMB vs CIFS.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Cheat Sheet.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Dangerous Settings.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Nmap Cheat Sheet.pdf",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Enum4Linux.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Crackmapexec.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools",
     "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration/Cheat Sheet.md",
     "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration/Cloud Resources.md",
     "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration/Domain Information.md",
@@ -175,7 +176,6 @@
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/Active vs Passive.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/vsFTPd.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/Dangerous settings.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Nmap Cheat Sheet.pdf",
     "README.md",
     "Pasted image 20240916205127.png",
     "conflict-files-obsidian-git.md",
@@ -186,7 +186,6 @@
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Scripts.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/OS Detection.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Host Discovery.md",
-    "docs/Pentesting/4. Post-Exploitation/Fully Interactive TTY.md",
     "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/Pasted image 20240828231009.png",
     "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/Pasted image 20240828230953.png",
     "docs/Pentesting/0. Penetration Testing Process/Project Closeout/assets",
