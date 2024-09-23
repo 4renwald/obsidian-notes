@@ -466,5 +466,8 @@
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IMAP (143,993),POP3 (110,995)/Commands.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IMAP (143,993),POP3 (110,995)/Default Configuration.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IMAP (143,993),POP3 (110,995)/Dangerous Settings.md": "TiFile",
-  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IMAP (143,993),POP3 (110,995)/Footprinting the Service.md": "TiFile"
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IMAP (143,993),POP3 (110,995)/Footprinting the Service.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SNMP (161,162,10161,10162)/Protocol overview.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SNMP (161,162,10161,10162)/Default Configuration.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SNMP (161,162,10161,10162)/Footprinting the Service.md": "TiFile"
 }

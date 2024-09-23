@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IMAP (143,993),POP3 (110,995)/Commands.md",
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SNMP (161,162,10161,10162)/Footprinting the Service.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IMAP (143,993),POP3 (110,995)/Commands.md",
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SNMP (161,162,10161,10162)/Footprinting the Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IMAP (143,993),POP3 (110,995)/Commands.md",
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SNMP (161,162,10161,10162)/Footprinting the Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IMAP (143,993),POP3 (110,995)/Commands.md"
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SNMP (161,162,10161,10162)/Footprinting the Service.md"
               }
             }
           }
@@ -156,8 +156,13 @@
   },
   "active": "38b6878d30346ab2",
   "lastOpenFiles": [
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IMAP (143,993),POP3 (110,995)/Footprinting the Service.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Nmap Cheat Sheet.pdf",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SNMP (161,162,10161,10162)/Footprinting the Service.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SNMP (161,162,10161,10162)/Dangerous Settings.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SNMP (161,162,10161,10162)/Default Configuration.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SNMP (161,162,10161,10162)/Protocol overview.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IMAP (143,993),POP3 (110,995)/Commands.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IMAP (143,993),POP3 (110,995)/Footprinting the Service.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IMAP (143,993),POP3 (110,995)/Dangerous Settings.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IMAP (143,993),POP3 (110,995)/Default Configuration.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMTP (25,465,587)/Footprinting the Service.md",
@@ -165,7 +170,6 @@
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMTP (25,465,587)/Common Commands.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMTP (25,465,587)/Postfix Default Configuration.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Scripts.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Nmap Cheat Sheet.pdf",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMTP (25,465,587)/Protocol overview.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/DNS (53)/Footprinting the Service.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/NFS (111,2049)/Footprinting the Service.md",
@@ -179,11 +183,6 @@
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/NFS (111,2049)",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/NFS (111,2049).md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Dangerous Settings.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/SMB vs CIFS.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/SMBMap.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Cheat Sheet.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Samrdump.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Enum4Linux.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools",
     "Pasted image 20240916205127.png",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/TFTP (69)",
