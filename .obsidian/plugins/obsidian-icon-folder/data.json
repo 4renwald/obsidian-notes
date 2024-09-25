@@ -469,5 +469,8 @@
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IMAP (143,993),POP3 (110,995)/Footprinting the Service.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SNMP (161,162,10161,10162)/Protocol overview.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SNMP (161,162,10161,10162)/Default Configuration.md": "TiFile",
-  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SNMP (161,162,10161,10162)/Footprinting the Service.md": "TiFile"
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SNMP (161,162,10161,10162)/Footprinting the Service.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/MySQL (3306)/Overview.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/MySQL (3306)/Default Configuration.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/MySQL (3306)/Footprinting the Service.md": "TiFile"
 }
