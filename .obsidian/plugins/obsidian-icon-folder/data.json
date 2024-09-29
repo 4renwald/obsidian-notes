@@ -486,5 +486,13 @@
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SSH (22)/Default Configuration.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/RSYNC (873)": "LiFolder",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/RSYNC (873)/Overview.md": "TiFile",
-  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/R-Services (512,513,514)/Scanning for R-Services.md": "TiFile"
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/R-Services (512,513,514)/Scanning for R-Services.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/RDP (3389)/Overview.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/RDP (3389)/Footprinting the Service.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WinRM (5985,5986)/Overview.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WinRM (5985,5986)/Footprinting the Service.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WMI (135)": "LiFolder",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WMI (135)/Overview.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WMI (135)/Footprinting the Service.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SSH (22)/Footprinting the Service.md": "TiFile"
 }

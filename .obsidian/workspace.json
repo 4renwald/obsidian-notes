@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/R-Services (512,513,514)/Scanning for R-Services.md",
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SSH (22)/Footprinting the Service.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/R-Services (512,513,514)/Scanning for R-Services.md",
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SSH (22)/Footprinting the Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/R-Services (512,513,514)/Scanning for R-Services.md",
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SSH (22)/Footprinting the Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/R-Services (512,513,514)/Scanning for R-Services.md"
+                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SSH (22)/Footprinting the Service.md"
               }
             }
           }
@@ -156,34 +156,37 @@
   },
   "active": "3619a69e3219cfc0",
   "lastOpenFiles": [
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SSH (22)/Public Key Authentication.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SSH (22)/Footprinting the Service.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/DNS (53)/Footprinting the Service.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/Dangerous settings.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/Cheat Sheet.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/Active vs Passive.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/Footprinting the service.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/FTP (21)/vsFTPd.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WMI (135)/Footprinting the Service.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WMI (135)/Overview.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WinRM (5985,5986)/Footprinting the Service.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WMI (135)",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WinRM (5985,5986)/Overview.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/RDP (3389)/Footprinting the Service.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WinRM (5985,5986)",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WinRM.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/RDP (3389)/Overview.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/R-Services (512,513,514)/Service Breakdown.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/RDP (3389)",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/R-Services (512,513,514)/Scanning for R-Services.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/RSYNC (873)/Footprinting the Service.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/RSYNC (873)/Overview.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SSH (22)/Footprinting the Service.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/RSYNC (873)",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/Untitled.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SSH (22)/Dangerous Settings.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SSH (22)/Authentication.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SSH (22)/Default Configuration.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SSH (22)/Overview.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SSH (22)/Public Key Authentication.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IPMI (623)/Dangerous Settings.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IPMI (623)/Footprinting the Service.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IPMI (623)/Authentication.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IPMI (623)/Default Credentials.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/Oracle TNS (1521)/Overview.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/Oracle TNS (1521)/Footprinting the Service.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/Oracle TNS (1521)/Default Configuration.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IPMI (623)/Overview.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/MSSQL (1433,1434,2433)/T-SQL Commands.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/Oracle TNS (1521)",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/MSSQL (1433,1434,2433)/Footprinting the Service.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/MSSQL (1433,1434,2433)/Clients.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/MSSQL (1433,1434,2433)/Dangerous Settings.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/MSSQL (1433,1434,2433)/Databases.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/MSSQL (1433,1434,2433)/Default Configuration.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/MySQL (3306)/Footprinting the Service.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Nmap Cheat Sheet.pdf",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/NFS (111,2049)",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools",
@@ -192,9 +195,6 @@
     "docs/Pentesting/1. Information Gathering/Infrastructure Based Enumeration",
     "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/Pasted image 20240828231009.png",
     "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/Pasted image 20240828230953.png",
-    "docs/Pentesting/0. Penetration Testing Process/Project Closeout/assets",
-    "docs/Pentesting/Tools/Tmux",
-    "docs/Pentesting/Tools",
     "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-all.png",
     "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/PenTestProcess.png",
     "docs/Pentesting/0. Penetration Testing Process/Project Closeout/assets/0-PT-Process.png",
