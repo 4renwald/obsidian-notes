@@ -410,8 +410,6 @@
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/MySQL (3306)/Dangerous Settings.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/R-Services (512,513,514)/Service Breakdown.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Dangerous Settings.md": "TiFile",
-  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Spidering.md": "TiFile",
-  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Windows Specific.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMTP (25,465,587)/Common Commands.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SNMP (161,162,10161,10162)/Dangerous Settings.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SSH (22)/Dangerous Settings.md": "TiFile",
@@ -494,5 +492,6 @@
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WMI (135)": "LiFolder",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WMI (135)/Overview.md": "TiFile",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WMI (135)/Footprinting the Service.md": "TiFile",
-  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SSH (22)/Footprinting the Service.md": "TiFile"
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SSH (22)/Footprinting the Service.md": "TiFile",
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/RSYNC (873)/Footprinting the Service.md": "TiFile"
 }
