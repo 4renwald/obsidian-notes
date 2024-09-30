@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/DNS (53)/Footprinting the Service.md",
+                "file": "docs/Pentesting/1. Information Gathering/Web Enumeration/Passive/WHOIS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/DNS (53)/Footprinting the Service.md",
+                "file": "docs/Pentesting/1. Information Gathering/Web Enumeration/Passive/WHOIS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/DNS (53)/Footprinting the Service.md",
+                "file": "docs/Pentesting/1. Information Gathering/Web Enumeration/Passive/WHOIS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/DNS (53)/Footprinting the Service.md"
+                "file": "docs/Pentesting/1. Information Gathering/Web Enumeration/Passive/WHOIS.md"
               }
             }
           }
@@ -154,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3619a69e3219cfc0",
+  "active": "b442925ece7cab4b",
   "lastOpenFiles": [
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/DNS (53)/Footprinting the Service.md",
+    "docs/Pentesting/1. Information Gathering/Web Enumeration/Passive/WHOIS.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/MySQL (3306)/Footprinting the Service.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/MySQL (3306)/Default Configuration.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IMAP (143,993),POP3 (110,995)/Commands.md",
@@ -180,8 +182,6 @@
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/NFS (111,2049)/Footprinting the Service.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/NFS (111,2049)/Default Configuration.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/NFS (111,2049)/Dangerous Settings.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Samrdump.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/RDP (3389)/Overview.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WMI (135)",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WinRM (5985,5986)",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/RDP (3389)",
