@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Web Enumeration/Fingerprinting.md",
+                "file": "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Creepy Crawlies.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Web Enumeration/Fingerprinting.md",
+                "file": "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Creepy Crawlies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Web Enumeration/Fingerprinting.md",
+                "file": "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Creepy Crawlies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Web Enumeration/Fingerprinting.md"
+                "file": "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Creepy Crawlies.md"
               }
             }
           }
@@ -155,10 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b302ef3157417a86",
+  "active": "b442925ece7cab4b",
   "lastOpenFiles": [
-    "docs/Pentesting/1. Information Gathering/Web Enumeration/Passive/Certificate Transparency (CT) Logs.md",
+    "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Web Crawling (Theory).md",
+    "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Creepy Crawlies.md",
+    "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Well-Known URIs.md",
     "docs/Pentesting/1. Information Gathering/Web Enumeration/Fingerprinting.md",
+    "docs/Pentesting/1. Information Gathering/Web Enumeration/Passive/Certificate Transparency (CT) Logs.md",
     "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Subdomain & Virtual Host Fuzzing.md",
     "docs/Programming/Useful Links.md",
     "docs/Programming/Assembly/Registers, Addresses, and Data Types.md",
@@ -176,14 +179,11 @@
     "docs/Pentesting/1. Information Gathering/Web Enumeration/Passive/Google Dorking.md",
     "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Directory & Page Fuzzing.md",
     "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Parameter & Value Fuzzing.md",
-    "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Web Crawling.md",
     "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Web Server Enumeration.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/SMBMap.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Samrdump.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/RPCclient.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Enum4Linux.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Crackmapexec.md",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Nmap Cheat Sheet.pdf",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WMI (135)",
     "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WinRM (5985,5986)",
