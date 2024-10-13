@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "38b84b16c7cac629",
+        "id": "b1af61873db30f27",
         "type": "tabs",
         "children": [
           {
-            "id": "b302ef3157417a86",
+            "id": "7240affc8e278a60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Creepy Crawlies.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "beautitab-react-view",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430.500732421875
+    "width": 407.500732421875
   },
   "right": {
     "id": "7ceb0524e9195281",
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Creepy Crawlies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Creepy Crawlies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +117,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -132,13 +126,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Creepy Crawlies.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,45 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b442925ece7cab4b",
+  "active": "7240affc8e278a60",
   "lastOpenFiles": [
-    "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Web Crawling (Theory).md",
-    "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Creepy Crawlies.md",
-    "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Well-Known URIs.md",
-    "docs/Pentesting/1. Information Gathering/Web Enumeration/Fingerprinting.md",
-    "docs/Pentesting/1. Information Gathering/Web Enumeration/Passive/Certificate Transparency (CT) Logs.md",
-    "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Subdomain & Virtual Host Fuzzing.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/Rsync (873)/Footprinting the Service.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/Rsync (873)/Overview.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WMI (135)/Overview.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WMI (135)/Footprinting the Service.md",
+    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WMI (135)",
     "docs/Programming/Useful Links.md",
     "docs/Programming/Assembly/Registers, Addresses, and Data Types.md",
     "docs/Programming/Assembly/Infrastructure Set Architectures.md",
-    "docs/Programming/Assembly/CPU Architecture.md",
     "docs/Programming/Assembly/Computer Architecture.md",
-    "docs/Pentesting/Useful Links.md",
-    "docs/Pentesting/Tools/Tmux.md",
-    "docs/Pentesting/Tools/Vim.md",
-    "docs/Pentesting/1. Information Gathering/Web Enumeration/Tools/EyeWitness.md",
-    "docs/Pentesting/1. Information Gathering/Web Enumeration/Passive/WHOIS.md",
-    "docs/Pentesting/1. Information Gathering/Web Enumeration/Passive/Web Archives.md",
-    "docs/Pentesting/1. Information Gathering/Web Enumeration/Passive/Passive Subdomain Enumeration.md",
-    "docs/Pentesting/1. Information Gathering/Web Enumeration/Passive/Passive Infrastructure Identification.md",
-    "docs/Pentesting/1. Information Gathering/Web Enumeration/Passive/Google Dorking.md",
-    "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Directory & Page Fuzzing.md",
-    "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Parameter & Value Fuzzing.md",
-    "docs/Pentesting/1. Information Gathering/Web Enumeration/Active/Web Server Enumeration.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/SMBMap.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/Samrdump.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools/RPCclient.md",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Tools/Nmap/Nmap Cheat Sheet.pdf",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WMI (135)",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/WinRM (5985,5986)",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/RDP (3389)",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/RSYNC (873)",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/Oracle TNS (1521)",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/NFS (111,2049)",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/SMB (139,445)/Tools",
+    "docs/Programming/Assembly/CPU Architecture.md",
+    "docs/Pentesting/5. Post-Exploitation/Windows Post Exploitation/Privilege Escalation/User Privileges/SeTakeOwnershipPrivilege.md",
+    "docs/Pentesting/5. Post-Exploitation/Windows Post Exploitation/Privilege Escalation/User Privileges/SeImpersonate & SeAssignPrimaryToken.md",
+    "docs/Pentesting/5. Post-Exploitation/Windows Post Exploitation/Privilege Escalation/User Privileges/SeDebugPrivilege.md",
+    "docs/Pentesting/5. Post-Exploitation/Windows Post Exploitation/Privilege Escalation/Privileged Groups/Server Operators.md",
+    "docs/Pentesting/5. Post-Exploitation/Windows Post Exploitation/Privilege Escalation/Privileged Groups/Print Operators.md",
+    "docs/Pentesting/5. Post-Exploitation/Windows Post Exploitation/Privilege Escalation/Privileged Groups/Hyper-V Administrators.md",
+    "docs/Pentesting/5. Post-Exploitation/Windows Post Exploitation/Privilege Escalation/Privileged Groups/Event Log Readers.md",
+    "docs/Pentesting/5. Post-Exploitation/Windows Post Exploitation/Privilege Escalation/Privileged Groups/DnsAdmins.md",
+    "docs/Pentesting/5. Post-Exploitation/Windows Post Exploitation/Privilege Escalation/Privileged Groups/Backup Operators.md",
+    "docs/Pentesting/5. Post-Exploitation/Windows Post Exploitation/Privilege Escalation/Legacy Operation System/Windows Server 2008 (R2).md",
+    "docs/Pentesting/5. Post-Exploitation/Windows Post Exploitation/Privilege Escalation/Legacy Operation System/Windows 7.md",
+    "docs/Pentesting/5. Post-Exploitation/Windows Post Exploitation/Privilege Escalation/Kernel Exploits/Kernel Exploit Table.md",
+    "docs/Pentesting/5. Post-Exploitation/Windows Post Exploitation/Pillage & Recon/Host Recon/Wmic Commands.md",
+    "docs/Pentesting/5. Post-Exploitation/Windows Post Exploitation/Pillage & Recon/Host Recon/Net Commands.md",
+    "docs/Pentesting/5. Post-Exploitation/Windows Post Exploitation/Pillage & Recon/Host Recon/Dsquery.md",
+    "docs/Pentesting/5. Post-Exploitation/Linux Post Exploitation/Privilege Escalation/Wildcard Injection/tar.md",
+    "docs/Pentesting/5. Post-Exploitation/Linux Post Exploitation/Privilege Escalation/Wildcard Injection/rsync.md",
+    "docs/Pentesting/5. Post-Exploitation/Windows Post Exploitation/Privilege Escalation/User Privileges",
+    "docs/Pentesting/5. Post-Exploitation/Windows Post Exploitation/Privilege Escalation/Privileged Groups",
+    "docs/Pentesting/5. Post-Exploitation/Windows Post Exploitation/Privilege Escalation/Legacy Operation System",
+    "docs/Pentesting/5. Post-Exploitation/Windows Post Exploitation/Privilege Escalation/Kernel Exploits",
+    "docs/Pentesting/5. Post-Exploitation/Windows Post Exploitation/Pillage & Recon/Host Recon",
+    "docs/Pentesting/5. Post-Exploitation/Linux Post Exploitation/Privilege Escalation/Wildcard Injection",
+    "docs/Pentesting/5. Post-Exploitation/Linux Post Exploitation/Privilege Escalation/Sudo Abuse",
+    "docs/Pentesting/5. Post-Exploitation/Linux Post Exploitation/Privilege Escalation/Passwd, Shadow &  Opasswd",
+    "docs/Pentesting/5. Post-Exploitation/Linux Post Exploitation/Privilege Escalation/Credential Hunting",
     "Pasted image 20240916205127.png",
-    "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/TFTP (69)",
     "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/Pasted image 20240828231009.png",
     "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/Pasted image 20240828230953.png",
     "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-all.png",
