@@ -6,10 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🟣",
+      "⚪",
       "LiFolder",
       "TiTools",
-      "LiServer",
-      "LiNetwork"
+      "LiServer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -125,5 +126,7 @@
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/MSSQL (1433,1434,2433)": "LiFolder",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/IMAP (143,993),POP3 (110,995)": "LiFolder",
   "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/Oracle TNS (1521)": "LiFolder",
-  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/RSYNC (873)": "LiFolder"
+  "docs/Pentesting/1. Information Gathering/Network Enumeration/Services/RSYNC (873)": "LiFolder",
+  "docs/Pentesting/4. Latteral Movement": "🟣",
+  "docs/Pentesting/5. Post-Exploitation": "⚪"
 }
