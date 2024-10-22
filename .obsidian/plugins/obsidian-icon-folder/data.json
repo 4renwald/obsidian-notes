@@ -86,7 +86,6 @@
   "docs/Pentesting/1. Information Gathering/Web Enumeration": "TiWorldWww",
   "docs/Pentesting/1. Information Gathering/Web Enumeration/Active": "LiFolder",
   "docs/Pentesting/1. Information Gathering/Web Enumeration/Passive": "LiFolder",
-  "docs/Pentesting/Useful Links.md": "LiLink",
   "docs/Programming/Assembly": "LiFolder",
   "docs/Programming/Assembly/assets": "LiFolder",
   "docs/index.md": "TiWorldWww",
@@ -128,5 +127,6 @@
   "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-POEX.png": "LiImage",
   "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/PenTestProcess.png": "LiImage",
   "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-PRE.png": "LiImage",
-  "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-VA.png": "LiImage"
+  "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/0-PT-Process-VA.png": "LiImage",
+  "docs/Pentesting/Links.md": "LiLink"
 }

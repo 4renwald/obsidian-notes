@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Pentesting/Useful Links.md",
+                "file": "docs/Pentesting/Links.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Useful Links"
+              "title": "Links"
             }
           }
         ]
@@ -198,7 +198,7 @@
     "docs/Pentesting/1. Information Gathering/Application Enumeration/Tomcat.md",
     "docs/Pentesting/1. Information Gathering/Application Enumeration/Joomla.md",
     "docs/Pentesting/3. Exploitation/Application Exploitation/Tomcat/CVE-2019-0232.md",
-    "docs/Pentesting/Useful Links.md",
+    "docs/Pentesting/Links.md",
     "docs/Pentesting/5. Post-Exploitation/File Transfer/Detect or be Detected/Avoiding Detection.md",
     "docs/Pentesting/5. Post-Exploitation/File Transfer/Detect or be Detected",
     "docs/Pentesting/5. Post-Exploitation/File Transfer/Detect or be Detected/Detection.md",
