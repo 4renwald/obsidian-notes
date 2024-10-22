@@ -1,26 +1,16 @@
-site_name: notes
+site_name: Arenwald's vault
+
+extra_css:
+  - stylesheets/extra.css
 
 theme:
-    name: 'material'
+    name: material
     palette:
-
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: black
-      accent: light-green
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
-      accent: light-green
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+      primary: brown
+      accent: amber
 
 # Extensions
 markdown_extensions:
