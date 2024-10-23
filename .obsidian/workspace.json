@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Pentesting/Links.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Links"
+              "title": "README"
             }
           }
         ]
@@ -174,6 +174,10 @@
   },
   "active": "d9e1c81bd4fb1bce",
   "lastOpenFiles": [
+    "docs/index.md",
+    "README.md",
+    "docs/Pentesting/Links.md",
+    "CNAME",
     "overrides/partials/footer.html",
     "overrides/partials",
     "overrides",
@@ -204,12 +208,8 @@
     "docs/Pentesting/1. Information Gathering/Application Enumeration/Tomcat.md",
     "docs/Pentesting/1. Information Gathering/Application Enumeration/Joomla.md",
     "docs/Pentesting/3. Exploitation/Application Exploitation/Tomcat/CVE-2019-0232.md",
-    "docs/Pentesting/Links.md",
     "docs/Pentesting/5. Post-Exploitation/File Transfer/Detect or be Detected/Avoiding Detection.md",
-    "docs/Pentesting/5. Post-Exploitation/File Transfer/Detect or be Detected",
     "docs/Pentesting/5. Post-Exploitation/File Transfer/Detect or be Detected/Detection.md",
-    "docs/Pentesting/5. Post-Exploitation/File Transfer/Living off The Land.md",
-    "docs/Pentesting/5. Post-Exploitation/File Transfer/Miscellaneous Methods",
     "Pasted image 20240916205127.png",
     "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/Pasted image 20240828231009.png",
     "docs/Pentesting/0. Penetration Testing Process/Assessment Specific Stages/assets/Pasted image 20240828230953.png",

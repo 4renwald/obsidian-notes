@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Obsidian notes 👋</h1>
+<h1 align="center">Welcome to my Obsidian Notes 👋</h1>
 
 
 My notes are available at:
