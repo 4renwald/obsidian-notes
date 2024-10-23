@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/Pentesting/2. Pre-Exploitation/Shells/Reverse Shells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Reverse Shells"
             }
           }
         ]
@@ -174,8 +174,8 @@
   },
   "active": "d9e1c81bd4fb1bce",
   "lastOpenFiles": [
-    "docs/index.md",
     "README.md",
+    "docs/index.md",
     "docs/Pentesting/Links.md",
     "CNAME",
     "overrides/partials/footer.html",
